@@ -4,9 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Olá, eu sou o Luiz Guilherme
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando React
-- ❗ Trabalhando em projetos semanalmente
+Atualmente, sou estagiário de desenvolvimento de software na **Lucas Technology Services**, onde trabalho com tecnologias como **Angular e .NET**. Estou empenhado em me tornar um desenvolvedor **full stack**.
+
+- 🔭 Trabalho com Front-End;
+- 🌱 Estudando .NET;
+- ❗ Trabalhando em projetos semanalmente.
 
 ##
 
@@ -18,7 +20,9 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luiz-BootStrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Luiz-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Luiz-Nextjs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Luiz-Dot-net" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 
 </div>
 
