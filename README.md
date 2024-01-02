@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 Atualmente, sou estagiário de desenvolvimento de software na **Lucas Technology Services**, onde trabalho com tecnologias como **Angular e .NET**. Estou empenhado em me tornar um desenvolvedor **full stack**.
 
 - 🔭 Trabalho com Front-End;
-- 🌱 Estudando .NET;
+- 🌱 Focado em me tornar um desenvolvedor full cycle;
 - ❗ Trabalhando em projetos semanalmente.
 
 ##
