@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Olá, eu sou o Luiz Guilherme
-Atualmente, sou estagiário de desenvolvimento de software na **Lucas Technology Services**, onde trabalho com tecnologias como **Angular e .NET**. Estou empenhado em me tornar um desenvolvedor **full stack**.
+Atualmente, sou estagiário de desenvolvimento de software na **Lucas Technology Services**, onde trabalho com tecnologias como **Angular e .NET**.
 
 - 🔭 Trabalho com Front-End;
 - 🌱 Focado em me tornar um desenvolvedor full cycle;
