@@ -4,10 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Olá, eu sou o Luiz Guilherme
-Atualmente, sou estagiário de desenvolvimento de software na **Lucas Technology Services**, onde trabalho com tecnologias como **Angular e .NET**.
+Atualmente, sou estagiário de desenvolvimento de software na **I-DUTTO - Soluções em Localização e Identificação Eletrônica**, onde trabalho com tecnologias como **Angular e .NET**.
 
 - 🔭 Trabalho com Front-End;
-- 🌱 Focado em me tornar um desenvolvedor full cycle;
+- 🌱 Focado em me tornar um desenvolvedor full stack;
 - ❗ Trabalhando em projetos semanalmente.
 
 ##
