@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 Atualmente, sou estagiário de desenvolvimento de software na **I-DUTTO - Soluções em Localização e Identificação Eletrônica**, onde trabalho com tecnologias como **Angular, C# e ASP .NET**. Dessa forma, utilizamos o Azure DevOps Services para o versionamento de código.
 
 - 🔭 Trabalho com Front-End;
-- 🌱 Focado em me tornar um desenvolvedor full stack;
+- 🌱 Focado em me tornar um desenvolvedor full stack;;
 - ❗ Trabalhando em projetos semanalmente.
 
 ##
