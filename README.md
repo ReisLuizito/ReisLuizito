@@ -4,9 +4,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Olá, eu sou o Luiz Guilherme
-Atualmente, sou estagiário de desenvolvimento de software na **I-DUTTO - Soluções em Localização e Identificação Eletrônica**, onde trabalho com tecnologias como **Angular, C# e ASP .NET**. Dessa forma, utilizamos o Azure DevOps Services para o versionamento de código.
+Atualmente, sou estagiário de desenvolvimento de software na **Maravi**, onde trabalho com tecnologias como **Python e React**.
 
-- 🔭 Trabalho com Front-End;
+- 🔭 Atualmente trabalho com Back-end;
 - 🌱 Focado em me tornar um desenvolvedor full stack;
 - ❗ Trabalhando em projetos semanalmente;
 - 📚 Cursando Sistemas de Informação na UniFatecie
